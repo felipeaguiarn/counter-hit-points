@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Welcome, 
+This is a small experiment to test basic knowledge of Javascript.
 
-You can use the [editor on GitHub](https://github.com/felipeaguiarn/counter-hit-points/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The idea is to create a simple hit point counter.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Functionalities:
+Add name,
+Increase or decrease the initial value,
+Restart the counter.
 
-### Markdown
+Test on this [LINK](https://felipeaguiarn.github.io/counter-hit-points)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Developed 
+In Javascript, HTML and CSS (FlexBox)
 
-```markdown
-Syntax highlighted code block
+### Support or fixes are appreciated
 
-# Header 1
-## Header 2
-### Header 3
+### Thanks for reading
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Bem vindo, 
+Esse é um pequeno experimento para testar os conhecimentos basicos em Javascript. 
 
-**Bold** and _Italic_ and `Code` text
+A ideia é criar um contador de pontos de vidas. 
 
-[Link](url) and ![Image](src)
-```
+### Funcionalidades:
+Adicionar nome,
+Aumentar ou diminuir o valor inicial, 
+Resetar o contador.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Desenvolvido em Javascript, HTML e CSS (FlexBox)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/felipeaguiarn/counter-hit-points/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Você pode testar o funcionamento do mesmo nesse [LINK](https://felipeaguiarn.github.io/counter-hit-points)
 
-### Support or Contact
+### Obrigado pela visita. 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Caso tenha alguma dica ou apontamentos vou ficar feliz em receber seu comentario. 
